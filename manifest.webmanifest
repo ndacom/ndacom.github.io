@@ -1,6 +1,6 @@
 {
-  "name": "NDA.CuttingBar.WebClient",
-  "short_name": "NDA.CuttingBar.WebClient",
+  "name": "NDA Apps",
+  "short_name": "NDA Apps",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
