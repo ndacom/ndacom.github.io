@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "NDA.CuttingBar.WebClient",
   "resources": {
-    "hash": "sha256-bh3/4ld9hGOUvdAJExL2M4mqPxvNjco6s0siO6pOkl0=",
+    "hash": "sha256-MlAJXiPspz6lAptZaJbWEXwaHL3t4C0l0g2EeX9jmGc=",
     "jsModuleNative": {
-      "dotnet.native.8.0.0.l8xfr0okrc.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
+      "dotnet.native.8.0.0.e6gbyzc32f.js": "sha256-3mFkRjVvg28z+l2wY4IVMAHjgs6gu670FXgnupp5Q+U="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.0.44mbso0uu3.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
+      "dotnet.runtime.8.0.0.14kkjimq5k.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY="
+      "dotnet.native.wasm": "sha256-CLdJ0sELBGeTjgsOyeVjQ59ZouOSiuaLwF1R2kND6dE="
     },
     "assembly": {
       "Microsoft.AspNetCore.Components.wasm": "sha256-veiM5RoRnJbNqOwXMlijefgzug0lFolpa8/leP0UhWQ=",
@@ -26,11 +26,11 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-+Rt8iKATTcS4lJwzOVupnY95QLDIoKdW228hSCzBifg=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-i8yLC1pzEZMAPAHK2MyunJW81S6Tpyvwka9LDZSylx8=",
-      "NDA.CuttingBar.WebClient.wasm": "sha256-uHaqXS34A/DsA3whTsEfpZapx2PGNQQtwmj+1dM67Yw=",
-      "NDA.Library.wasm": "sha256-R4IWhrfhjHMDlcf1VK1L45lAYFoFXD5MdKNsDcDKv+s=",
-      "NDA.Linear.wasm": "sha256-QrM5jaFx7rlWzS7XfBe5TheYUCctLOEQgkqAuGMuR2g=",
-      "NDA.MathNet.wasm": "sha256-3I5RFepUqxoVqBPVZqZbdqN0wsaqdbC7rz99w5PZgTw=",
-      "NDA.RazorShared.wasm": "sha256-oBbtmG518lgIRJJHpk1aFgStMRhOyXQWg7ieCYyHZd4=",
+      "NDA.CuttingBar.WebClient.wasm": "sha256-hdpq5mUSiJC8M8zAg6rmbHVZ3KnAyQ/DzOAOGcE0iHw=",
+      "NDA.Library.wasm": "sha256-RVG4sKnGk9nGW1CKTb+ufK3MdKePry7nttisuYiqwP4=",
+      "NDA.Linear.wasm": "sha256-YFz87gc8NR3UOdpJjcXN9+/iv+1KRVhqShVccOr94co=",
+      "NDA.MathNet.wasm": "sha256-afIiCFx1WoD+PH+ERtRFkKI2QYK8EKl9AIwEFJE5hl4=",
+      "NDA.RazorShared.wasm": "sha256-pulQCJzlHj79ZkLfG8zu9DEVhcrSx427DWadmrNJVT4=",
       "System.Collections.Concurrent.wasm": "sha256-P1TSHvnYQZDO3arLGDNBqw6H4BcrvIMHMC3Xi7/JK6k=",
       "System.Collections.NonGeneric.wasm": "sha256-IlZ5kR9Shgp22kdteiiMIPTA7X2BCYeVcxt33L4/ST4=",
       "System.Collections.wasm": "sha256-MikZfBXxIBuWiN+4mZ1waK5XdjFlftJgLFSpapyfrVY=",
